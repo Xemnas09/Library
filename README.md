@@ -1,1 +1,1 @@
-Juste un répertoire pour archiver mes documents/livres en lien avec SQL 
+This is a directory that will be used to store all the interesting books that have been found on the internet.
